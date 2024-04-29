@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JeaFrid&color=green" alt="JeaFrid :: Profile Stats"></a>
 <a href="mailto:jeafriday@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jeafriday@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.instagram.com/kirmizipatika.ml/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kirmizipatika.ml-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/kirmizipatika.ml/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jeafriday-black?style=flat-square&logo=instagram"></a>
 </p>
 
 |                                                                                                                                        |                                                                                                                           |
