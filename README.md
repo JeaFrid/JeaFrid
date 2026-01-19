@@ -6,3 +6,4 @@
 
 **[Email](mailto:jeafriday.iletisim@gmail.com) • [Telegram](https://t.me/JeaFrid) • [YouTube](https://www.youtube.com/@JeaFriday)**
 
+Thanks for drawing me! Profile picture ref: [Urueieo](https://www.youtube.com/@light_ve_ac%C4%B1lar%C4%B1) (˶ᵔ ᵕ ᵔ˶)
