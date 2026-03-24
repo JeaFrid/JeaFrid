@@ -1,6 +1,8 @@
 ## What's up? This is my space!
 **Hi, I'm JeaFriday. I do a little science, play some games, and tinker with code a lot. Just focus on the projects!**
 
+[![Support me](https://img.buymeacoffee.com/button-api/?text=Support%20me&emoji=☕&slug=jeafriday&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/jeafriday)
+
 ### Would you like to meet me?
 [Click on](https://jeafriday.com/) me and visit me!
 
